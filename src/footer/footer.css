@@ -1,0 +1,69 @@
+.footer{
+    background-color: #121212;
+    color: white;
+    margin-top: 2%;
+}
+
+.block-footer{
+   display: flex;
+   flex-direction: row;
+}
+
+.express{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.express span{
+    color: #018FDE;
+    font-weight: 600;
+}
+
+.contact-us{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.contact-us span{
+    font-weight: 600;
+}
+
+.address{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.address span{
+    font-weight: 600;
+}
+
+.place span{
+    font-weight: 600;
+}
+
+.place{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.email{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.email span{
+    font-weight: 600;
+}
